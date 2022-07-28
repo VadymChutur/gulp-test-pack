@@ -1,0 +1,1 @@
+for start pack run terminal and write    gulp    for stop pack ctrl+c in terminal
